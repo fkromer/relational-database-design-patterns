@@ -1,1 +1,1 @@
-# sqlmodel-database-design-patterns
+# relational-database-design-patterns
